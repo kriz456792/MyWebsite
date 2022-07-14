@@ -5,3 +5,4 @@ For my site I used HTML, CSS, JS, and PHP. Any changes that
 I make will be updated here as well. 
 
 Here is the link:
+cruzchristopher.com
